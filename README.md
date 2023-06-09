@@ -14,25 +14,38 @@ As a collaborative team player, I thrive in working with others and actively con
 
 ### 🖥️ Coding Environments and Workflow
 
-- Development Environments: <img align="center" alt="VSCode" width="20px" src="https://simpleicons.org/icons/visualstudiocode.svg" /> VSCode, <img align="center" alt="PyCharm" width="20px" src="https://simpleicons.org/icons/pycharm.svg" /> PyCharm
-- Workflow Optimization: <img align="center" alt="Zsh" width="20px" src="https://simpleicons.org/icons/zsh.svg" /> Zsh, <img align="center" alt="Homebrew" width="20px" src="https://simpleicons.org/icons/homebrew.svg" /> Homebrew
+- Development Environments: <img align="center" alt="VSCode" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg" /> VSCode, <img align="center" alt="PyCharm" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pycharm.svg" /> PyCharm
+- Workflow Optimization: <img align="center" alt="Zsh" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/zsh.svg" /> Zsh, <img align="center" alt="Homebrew" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/homebrew.svg" /> Homebrew
 
 ---
 
 ### 🛠️ Languages and Tools:
 
-<img align="center" alt="JavaScript" width="30px" src="https://simpleicons.org/icons/javascript.svg" /> JavaScript |
-<img align="center" alt="React" width="30px" src="https://simpleicons.org/icons/react.svg" /> React |
-<img align="center" alt="Python" width="30px" src="https://simpleicons.org/icons/python.svg" /> Python |
-<img align="center" alt="Bootstrap" width="30px" src="https://simpleicons.org/icons/bootstrap.svg" /> Bootstrap |
-<img align="center" alt="Tailwind CSS" width="30px" src="https://simpleicons.org/icons/tailwindcss.svg" /> Tailwind CSS |
-<img align="center" alt="Git" width="30px" src="https://simpleicons.org/icons/git.svg" /> Git
+<img align="center" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" /> JavaScript |
+<img align="center" alt="React" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" /> React |
+<img align="center" alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" /> Python |
+<img align="center" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg" /> Bootstrap |
+<img align="center" alt="Tailwind CSS" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg" /> Tailwind CSS |
+<img align="center" alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" /> Git
 
 ---
 
 ### 📈 GitHub Stats
 
 ![Chidera's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0szn&show_icons=true&theme=tokyonight)
+
+---
+
+### 💼 Experience and Skills
+
+- Strong knowledge of HTML, CSS, and JavaScript
+- Proficient in React.js and Python
+- Experience with CSS frameworks like Bootstrap and Tailwind CSS
+- Version control using Git and GitHub
+- Collaborative team player with excellent communication skills
+- Problem-solving mindset and innovative thinking
+- Dedication to writing clean and maintainable code
+- Strong attention to detail and quality assurance
 
 ---
 
