@@ -2,7 +2,7 @@
 
 ## Front-end Web Developer | Team Player | Open Source Contributor | Workflow Optimization Specialist
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-123-blue)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-10k-blue)
 
 ---
 
@@ -40,7 +40,7 @@ As a collaborative team player, I thrive in working with others and actively con
 
 ### 🌐 Recent Projects
 
-Check out some of my recent projects on [geniuskingsley.dev](https://geniuskingsley.dev)
+Check out some of my recent projects on [geniuskingsley.dev](https://geniuskingsley.dev){:target="_blank"}
 
 ---
 
