@@ -14,19 +14,19 @@ As a collaborative team player, I thrive in working with others and actively con
 
 ### 🖥️ Coding Environments and Workflow
 
-- Development Environments: <img align="center" alt="VSCode" width="20px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/vscode.svg" /> VSCode, <img align="center" alt="PyCharm" width="20px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/pycharm.svg" /> PyCharm
-- Workflow Optimization: <img align="center" alt="Zsh" width="20px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/zsh.svg" /> Zsh, <img align="center" alt="Homebrew" width="20px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/homebrew.svg" /> Homebrew
+- Development Environments: <img align="center" alt="VSCode" width="20px" src="https://simpleicons.org/icons/visualstudiocode.svg" /> VSCode, <img align="center" alt="PyCharm" width="20px" src="https://simpleicons.org/icons/pycharm.svg" /> PyCharm
+- Workflow Optimization: <img align="center" alt="Zsh" width="20px" src="https://simpleicons.org/icons/zsh.svg" /> Zsh, <img align="center" alt="Homebrew" width="20px" src="https://simpleicons.org/icons/homebrew.svg" /> Homebrew
 
 ---
 
 ### 🛠️ Languages and Tools:
 
-<img align="center" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" /> JavaScript |
-<img align="center" alt="React" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/react.svg" /> React |
-<img align="center" alt="Python" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" /> Python |
-<img align="center" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" /> Bootstrap |
-<img align="center" alt="Tailwind CSS" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/tailwindcss.svg" /> Tailwind CSS |
-<img align="center" alt="Git" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" /> Git
+<img align="center" alt="JavaScript" width="30px" src="https://simpleicons.org/icons/javascript.svg" /> JavaScript |
+<img align="center" alt="React" width="30px" src="https://simpleicons.org/icons/react.svg" /> React |
+<img align="center" alt="Python" width="30px" src="https://simpleicons.org/icons/python.svg" /> Python |
+<img align="center" alt="Bootstrap" width="30px" src="https://simpleicons.org/icons/bootstrap.svg" /> Bootstrap |
+<img align="center" alt="Tailwind CSS" width="30px" src="https://simpleicons.org/icons/tailwindcss.svg" /> Tailwind CSS |
+<img align="center" alt="Git" width="30px" src="https://simpleicons.org/icons/git.svg" /> Git
 
 ---
 
