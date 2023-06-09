@@ -46,9 +46,10 @@ Check out some of my recent projects on [geniuskingsley.dev](https://geniuskings
 
 Connect with me on:
 
-- **GitHub**: [zer0szn](https://github.com/zer0szn)
-- **LinkedIn**: [zer0szn](https://www.linkedin.com/in/zer0szn/)
-- **Twitter**: [@zer0szn4](https://twitter.com/zer0szn4)
-- **Email**: [contact@geniuskingsley.dev](mailto:contact@geniuskingsley.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zer0szn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zer0szn/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zer0szn4)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/zer0szn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:contact@geniuskingsley.dev)
 
 Let's collaborate on exciting projects! 💻🚀 Find me on Google: "Chidera GeniusKingsley proficient front-end web developer"
