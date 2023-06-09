@@ -8,7 +8,7 @@
 
 Welcome to my GitHub profile! I'm Chidera, a proficient and dedicated front-end web developer with expertise in JavaScript, React.js, Python, and CSS frameworks such as Bootstrap and Tailwind CSS.
 
-As a collaborative team player, I thrive in working with others and actively contribute to open-source projects. With a focus on problem-solving and delivering innovative solutions, I consistently strive for excellence in every project I undertake.
+As a collaborative team player, I thrive in working with others and actively contribute to open-source projects. With a focus on problem-solving and delivering innovative solutions, I consistently strive for excellence in every project I undertake. My passion lies in writing clean and maintainable code that promotes scalability and robustness.
 
 ---
 
@@ -16,6 +16,8 @@ As a collaborative team player, I thrive in working with others and actively con
 
 - Development Environments: ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) VSCode, ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) PyCharm
 - Workflow Optimization: ![Zsh](https://img.shields.io/badge/Zsh-4EAA25?style=for-the-badge&logo=zsh&logoColor=white) Zsh, ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white) Homebrew
+- Testing Server: ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) Heroku
+- Equipment: ![Mac](https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
