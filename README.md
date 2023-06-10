@@ -40,7 +40,7 @@ As a collaborative team player, I thrive in working with others and actively con
 
 ### 🌐 Recent Projects
 
-Check out some of my recent projects on [geniuskingsley.dev](https://geniuskingsley.dev){:target="_blank"}
+Check out some of my recent projects on [geniuskingsley.dev](https://geniuskingsley.dev)
 
 ---
 
