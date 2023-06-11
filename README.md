@@ -1,12 +1,12 @@
 # Hello there! 👋 I'm Chidera, also known as GeniusKingsley!
 
-## Front-end Web Developer | Team Player | Open Source Contributor | Workflow Optimization Specialist
+## Frontend Engineer | Team Player | Open Source Contributor | Workflow Optimization Specialist
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-10k-blue)
 
 ---
 
-Welcome to my GitHub profile! I'm Chidera, a proficient and dedicated front-end web developer with expertise in JavaScript, React.js, Python, and CSS frameworks such as Bootstrap and Tailwind CSS.
+Welcome to my GitHub profile! I'm Chidera, a proficient JavaScript, React.js and Python Developer with favourite CSS frameworks like Bootstrap and Tailwind CSS.
 
 As a collaborative team player, I thrive in working with others and actively contribute to open-source projects. With a focus on problem-solving and delivering innovative solutions, I consistently strive for excellence in every project I undertake. My passion lies in writing clean and maintainable code that promotes scalability and robustness.
 
@@ -54,4 +54,4 @@ Connect with me on:
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/zer0szn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:contact@geniuskingsley.dev)
 
-Let's collaborate on exciting projects! 💻🚀 Find me on Google: "Chidera GeniusKingsley proficient front-end web developer"
+Let's collaborate on exciting projects! 💻🚀 Find me on Google: "Chidera GeniusKingsley proficient frontend engineer"
